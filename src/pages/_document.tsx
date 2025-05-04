@@ -18,7 +18,7 @@ export default function Document() {
 	return (
 		<Html lang="en">
 			<Head>
-				<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+				<link rel="icon" type="image/svg+xml" href="#"/>
 				<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
 				<meta name="apple-mobile-web-app-capable" content="yes"/>
 				<meta name="mobile-web-app-capable" content="yes"/>

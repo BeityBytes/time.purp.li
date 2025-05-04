@@ -1,8 +1,6 @@
 // src/pages/index.tsx
 import React, { useState, useEffect } from 'react';
 import {useThemes} from '@/hooks/useThemes';
-import Head from 'next/head';
-
 
 export default function Home() {
     const isThemes = useThemes();
